@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek3072&label=Profile%20views&color=0e75b6&style=flat" alt="vivek3072" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek3072" alt="vivek3072" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS , C++.**
 
-- 👨‍💻 All of my projects are available at [https://vivek-srivastava.herokuapp.com/](https://vivek-srivastava.herokuapp.com/)
+<!-- - 👨‍💻 All of my projects are available at [https://vivek-srivastava.herokuapp.com/](https://vivek-srivastava.herokuapp.com/) -->
 
 - 💬 Ask me about **React , Html , Css .**
 
 - 📫 How to reach me **srivastavavivek012@gmail.com**
+
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek3072&column=6&margin-w=10&margin-h=10&theme=radical" alt="vivek3072" /></a> </p>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
