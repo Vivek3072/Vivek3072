@@ -1,6 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Vivek Srivastava</h1>
-<h3 align="center">A passionate Front end Web Developer & an UI/UX Designer from India</h3>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Front-end%20web%20developer,;An%20enthusiast%20UI%2FUX%20Designer,;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek3072&label=Profile%20views&color=0e75b6&style=flat" alt="vivek3072" /> </p>
 
 - 🌱 I’m currently learning **ReactJS , C++.**
@@ -27,7 +28,10 @@
 
 <h2 align="center"> My GitHub Streak:</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek3072&theme=radical" alt="vivek3072" /></p><br/>
-
+<!-- //algolia  -->
 <h2 align="center"> My GitHub stats:</h2>
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek3072&show_icons=true&locale=en&theme=radical" alt="vivek3072" />
 <img align="center" margin="0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek3072&show_icons=true&locale=en&layout=compact&theme=radical" alt="vivek3072" /></p>
+<br/>
+<h2 align="center"> My Contribution graph:</h2>
+<a href="https://github.com/Vivek3072/github-readme-activity-graph"><img alt="Vivek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vivek3072&bg_color=141321&color=D93A7C&line=F85D7F&point=F1E05A" /></a>
