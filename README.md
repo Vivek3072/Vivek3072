@@ -6,11 +6,13 @@
 
 - 🌱 I’m currently learning **Next.JS , MongoDB , C++.**
 
-<!-- - 👨‍💻 All of my projects are available at [https://vivek-srivastava.herokuapp.com/](https://vivek-srivastava.herokuapp.com/) -->
-
 - 💬 Ask me about **React , Html , Css , Figma .**
 
-- 📫 How to reach me **srivastavavivek012@gmail.com**
+- 📫 How to reach me **itsvvkhere@gmail.com**
+
+<!-- - 👨‍💻 My portfolio [https://vivek-srivastava.herokuapp.com/](https://vivek-srivastava.herokuapp.com/) -->
+
+<!-- - 📫 Hire me as UI/UX designer https://www.fiverr.com/share/bmREaq -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
