@@ -6,9 +6,9 @@
 
 - 👨‍💻 My recent project [Qualido.in](https://www.qualido.in//)
 
-- 🌱 I’m currently working on my skills in **DSA , **Next.JS , C++.**
+- 🌱 I’m currently working on my skills in  **Next.JS , React.JS , Dsa , C++.**
 
-- 💬 Ask me about **Next , React , Html , Css , Figma .**
+<!-- - 💬 Ask me about **Next , React , Html , Css , Figma .** -->
 
 - 📫 How to reach me **itsvvkhere@gmail.com**
 
@@ -33,7 +33,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-svg-vector.svg" alt="netlify" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 </p>
 
 <h2 align="center"> My GitHub Streak:</h2>
