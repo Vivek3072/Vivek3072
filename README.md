@@ -4,7 +4,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek3072&label=Profile%20views&color=0e75b6&style=flat" alt="vivek3072" /> </p>
 
-- 👨‍💻 My recent project [Qualido.in](https://www.qualido.in//)
+- 👨‍💻 My recent project [Qualido.in](https://www.qualido.in/)
 
 - 🌱 I’m currently working on my skills in  **Next.JS , React.JS , Dsa , C++.**
 
