@@ -18,8 +18,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/vvk_srvstv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vvk_srvstv_" height="30" width="40" /></a>
+<a href="https://twitter.com/itsvvkhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vvk_srvstv_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-srivastava-2b3642202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-srivastava-2b3642202" height="30" width="40" /></a>
+<a href="https://vivek-srivastava.netlify.app/" target="blank"><img align="center" src="https://vivek-srivastava.netlify.app/static/media/Vivek.aa8df3ee6a7b9683eae4f54786395885.svg" alt="https://www.linkedin.com/in/vivek-srivastava-2b3642202" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -49,7 +50,6 @@
 <h2 align="center"> My Contribution graph:</h2>
 <a href="https://github.com/Vivek3072/github-readme-activity-graph"><img alt="Vivek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vivek3072&bg_color=141321&color=D93A7C&line=F85D7F&point=F1E05A" /></a>
 
-
 <br/> <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek3072&column=6&margin-w=10&margin-h=10&theme=radical" alt="vivek3072" /></a> </p>
 <br/>
@@ -58,4 +58,3 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=See%20you%20next%20time🤗.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
 </p>
 <hr/>
-
