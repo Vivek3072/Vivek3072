@@ -18,8 +18,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-srivastava-2b3642202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-srivastava-2b3642202" height="30" width="40" /></a>
-<a href="https://vivek-srivastava.netlify.app/" target="blank"><img align="center" src="https://vivek-srivastava.netlify.app/static/media/Vivek.aa8df3ee6a7b9683eae4f54786395885.svg" alt="https://www.linkedin.com/in/vivek-srivastava-2b3642202" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vivek-srivastava-2b3642202" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/vivek-srivastava-2b3642202" height="35" width="35" /></a>
+<!-- <a href="https://vivek-srivastava.netlify.app/" target="blank"><img align="center" src="https://vivek-srivastava.netlify.app/static/media/Vivek.aa8df3ee6a7b9683eae4f54786395885.svg" alt="https://www.linkedin.com/in/vivek-srivastava-2b3642202" height="30" width="40" /></a> -->
   <a href="https://www.youtube.com/@viveksrivastava3072" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="https://www.youtube.com/@viveksrivastava3072" height="30" width="40" /></a>
   <a href="https://www.instagram.com/vvk_srvstv_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="vvk_srvstv_" height="35" width="35" /></a>
   <a href="https://twitter.com/itsvvkhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vvk_srvstv_" height="30" width="40" /></a>
@@ -30,8 +30,8 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/" target="_blank"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a> 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="40" height="40"/> </a>
 <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.firebase.google.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png?f=webp&w=256" alt="firebase" width="40" height="40"/> </a> 
