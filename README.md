@@ -4,9 +4,11 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek3072&label=Profile%20views&color=0e75b6&style=flat" alt="vivek3072" /> </p>
 
-- 👨‍💻 My recent project [Qualido.in](https://www.qualido.in/)
+- 👨‍💻 Currently working on [Trialshopy](https://trialshopy-frontend.netlify.app/) project.
 
-- 🌱 I’m currently working on my skills in  **Next.JS , React.JS , Dsa , C++.**
+- 👨‍💻 My completed MERN project [Qualido.in](https://www.qualido.in/) for my own startup.
+
+- 🌱 Focussed on enhancing my skills in  **Next.JS , MERN , DSA , C++.**
 
 <!-- - 💬 Ask me about **Next , React , Html , Css , Figma .** -->
 
