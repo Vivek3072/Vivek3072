@@ -4,7 +4,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek3072&label=Profile%20views&color=0e75b6&style=flat" alt="vivek3072" /> </p>
 
-- 👨‍💻 Currently working on [Trialshopy](https://trialshopy-frontend.netlify.app/) project.
+- 👨‍💻 Currently working on [Tweeter](https://twitter-clone-zwb6.onrender.com/) app.
 
 - 👨‍💻 My completed MERN project [Qualido.in](https://www.qualido.in/) for my own startup.
 
