@@ -67,7 +67,11 @@
 <img align="center" margin="0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek3072&show_icons=true&locale=en&layout=compact&theme=radical" alt="vivek3072" /></p>
 <br/>
 <h2 align="center"> My Contribution graph:</h2>
-<a href="https://github.com/Vivek3072/github-readme-activity-graph"><img alt="Vivek's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Vivek3072&bg_color=141321&color=D93A7C&line=F85D7F&point=F1E05A" /></a>
+<p align="center">
+  <a href="https://github.com/Vivek3072">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek3072&theme=radical" alt="Vivek's GitHub Contribution"/>
+  </a>
+</p>
 
 <br/> <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek3072&column=6&margin-w=10&margin-h=10&theme=radical" alt="vivek3072" /></a> </p>
