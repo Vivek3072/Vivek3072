@@ -39,6 +39,9 @@
 
 ### Backend and Cloud
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws)](https://github.com/Vivek3072)
+<!-- <a style="background-color: #242424;">
+<img src="https://itsolution24x7.com/blog/wp-content/uploads/2020/06/socketio.png" height="50" width="50" />
+</a> -->
 
 ### Tools and Softwares
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,heroku,netlify,vercel,docker)](https://github.com/Vivek3072)
