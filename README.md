@@ -4,9 +4,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek3072&label=Profile%20views&color=0e75b6&style=flat" alt="vivek3072" /> </p>
 
-- 👨‍💻 Currently working on [Tweeter](https://twitter-clone-zwb6.onrender.com/) app.
+- 👨‍💻 Recently worked on [Tweeter](https://twitter-clone-zwb6.onrender.com/) app.
 
-- 👨‍💻 My completed MERN project [Qualido.in](https://www.qualido.in/) for my own startup.
+- 👨‍💻 My completed MERN project [Qualido.in](https://www.qualido.in/) for an e-commerce startup.
 
 - 🌱 Focussed on enhancing my skills in  **Next.JS , MERN , DSA , C++.**
 
